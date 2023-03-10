@@ -4,6 +4,10 @@
     color: darkorchid;
 }
 
-.texto-secundario{
-    color: chartreuse;
+#texto1{
+    background-color: blue;
+}
+
+#texto2{
+    background-color: deeppink;
 }
